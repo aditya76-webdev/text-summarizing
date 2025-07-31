@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # End to end Text-Summarizer-Project
 
 ## Workflows
@@ -129,3 +130,7 @@ Email: krishnaik06@gmail.com
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = simple-app
+=======
+# text-summarizing
+This project focuses on building an intelligent Text Summarization system using Natural Language Processing (NLP) techniques. It can automatically generate concise and coherent summaries from long pieces of text while preserving key information and context.
+>>>>>>> 26d7015a23b3fe351e9b155107a8fb0c04d48b3e
